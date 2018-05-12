@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '31560'
     url: http://www.gutenberg.org/2009/agents/31560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25761#St.-Bernard-of-Clairvaux-s-Life-of-St.-Malachy-of-Armagh
 gutenberg_issued: '2008-06-11'
 gutenberg_type: Text
 identifiers:
